@@ -79,6 +79,17 @@ Frontend: `http://localhost:5173`
 
 Backend health check: `http://localhost:5000/api/health`
 
+## Deployment
+
+Deployment instructions are in [DEPLOYMENT.md](./DEPLOYMENT.md).
+
+Recommended hosting:
+
+- Frontend: Vercel
+- Backend: Render
+- Database: MongoDB Atlas
+- Images: Cloudinary
+
 ## API Summary
 
 ### Auth
