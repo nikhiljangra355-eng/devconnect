@@ -127,7 +127,7 @@ Socket events:
 - `message:received`
 - `presence:online`
 
-## Interview Talking Points
+## Points
 
 - The frontend stores the JWT in local storage and attaches it through an Axios interceptor.
 - Protected Express routes use JWT verification middleware before reaching controllers.
